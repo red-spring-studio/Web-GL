@@ -14,7 +14,7 @@
 <h1 align="center">WebGL Shader: Black Hole</h1>
 
 <div align="center">
-<a href="#"><img src="https://assets.codepen.io/6566924/black-hole-webgl-screenshot.PNG" alt="" height="200"></a></div>
+<a href="./black-hole-webgl-shader/dist/black-hole-shader.html"><img src="https://assets.codepen.io/6566924/black-hole-webgl-screenshot.PNG" alt="" height="200"></a></div>
 <br>
 
 ----
